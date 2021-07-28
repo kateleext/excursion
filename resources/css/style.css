@@ -1,11 +1,42 @@
 html {
     background-color: black;
+    font-family: Verdana;
 }
 
 header h1 {
-    font-family: Verdana;
     font-weight: Normal;
     font-size: 50px;
     color: White;
     text-align: center;
+}
+
+.hyperlink {
+    font-size: 16;
+    color: aquamarine;
+    text-align: center;
+}
+
+phone video {
+    width: 200px;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42;
+}
+
+body p {
+    font-size: 21px;
+    color: Gray;
+}
+
+.tent-photo {
+    width: 500px;
+    max-width: 90%;
+}
+
+.icon {
+    width: 60px;
 }
