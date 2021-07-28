@@ -1,24 +1,25 @@
 html {
     background-color: black;
     font-family: Verdana;
+    text-align: center;
 }
 
 header h1 {
     font-weight: Normal;
     font-size: 50px;
     color: White;
-    text-align: center;
+    padding: 50px;
 }
 
 .hyperlink {
     font-size: 16;
     color: aquamarine;
-    text-align: center;
 }
 
 phone video {
-    width: 200px;
+    width: 400px;
     margin: auto;
+    padding: 70px;
 }
 
 h2 {
@@ -39,4 +40,9 @@ body p {
 
 .icon {
     width: 60px;
+    padding: 70px;
+}
+
+.spacing{
+    height: 100px;
 }
